@@ -5,7 +5,8 @@ RM:
 566539
 
 Link do repositório:
-https://github.com/Leo010906/AquaGuard.git
+https://github.com/Leo010906/Front-GS.git
 
-Link do site:
-https://leo010906.github.io/AquaGuard/
+
+
+
